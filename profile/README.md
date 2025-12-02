@@ -6,7 +6,7 @@ Kami adalah organisasi mahasiswa dari Sekolah Tinggi Ilmu Komputer Cipta Karya I
 
 <p align="center">
     <!-- badge UKM IT-->
-    <img alt="Banner UKM IT" src="profile/src/banner%20github.png"><br>
+    <img alt="Banner UKM IT" src="/profile/src/banner github.png"><br>
     <!-- badge discord-->
     <a href="https://discord.gg/rgduyVK8CK"><img alt="Badge Discord" src="https://img.shields.io/discord/1445237932259676273?color=blue&label=discord&logo=discord&logoColor=white&style=for-the-badge&status=online">
 </p>
